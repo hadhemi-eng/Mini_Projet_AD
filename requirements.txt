@@ -1,0 +1,3 @@
+pandas : manipulation et analyse de données
+
+matplotlib.pyplot : tracé des courbes
