@@ -1,7 +1,7 @@
 # Mini_Projet_AD
 L'importance de lavage des mains avec Dr. Semmelweis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hadhemi-eng/Mini_Projet_AD/main?labpath=https%3A%2F%2Fgithub.com%2Fhadhemi-eng%2FMini_Projet_AD%2Fblob%2Fmain%2Fnotebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hadhemi-eng/Mini_Projet_AD/main?labpath=notebook.ipynb)
 
 ## Présentation
 
