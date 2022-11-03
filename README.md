@@ -8,7 +8,7 @@ L'importance de lavage des mains avec Dr. Semmelweis
 ceci est le projet de L'importance de lavage des mains avec Dr. Semmelweis en utilisant l'analyse de données
 on a utilisé le langage python avec les bibliothèques  pandas et matplotlib
 
-<img src='img/pandas.png' width=80px>
+<img src='img/project_image.png' width=80px>
 
 ## :file_folder: Dataset 
 
