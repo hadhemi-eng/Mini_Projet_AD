@@ -31,6 +31,8 @@ le data set contient des statistiques de décès et de mort par clinique et par 
 | 11 | 1846  | 3754     |  105   |  clinic 2  |  
 
 ## Analyse
-
+    Les tableaux, Les analyses des données et les graphes dessinés par matplotlib montrent que les proportions des décés ont diminué après le début du lavages des mains des medecins (voir les graphes ci dessous)
+<img src='img/lavagedesmainsMoinsdeDeces.png' width=80px>
 
 ## Conclusion 
+    Le lavages des mains a provu important pour protéger la vie des bébés et des mamans, mais aussi les statistique et l'analyse de données est aussi important et peux jouer un grand role dans le domaine de médecine, ainsi que les autres domaines
